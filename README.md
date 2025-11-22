@@ -9,8 +9,8 @@ Welcome to my GitHub profile! My name is **Timur Salakhov** and I am backend dev
 - 🎓 Computer Science & Engineering undergrad at [Innopolis University](https://innopolis.university/en/).
 - 💻 Passionate about web/software development
 
+Currently working on projects:
+- [Imperative Language Compiler on C#](https://github.com/DvrkRain/Imperative-Language-Compiler)
+- [Internal Training & Mentoring System](https://github.com/mnkhmtv/corporate-learning-module)
+
 ![DvrkRain's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DvrkRain&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-[![DvrkRain's GitHub stats](https://github-readme-stats.vercel.app/api?username=DvrkRain)](https://github.com/anuraghazra/github-readme-stats)
-
-![DvrkRain's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DvrkRain&theme=vue-dark&hide_border=true)
