@@ -8,7 +8,8 @@
 ### 🧑‍💻 About Me
 
 - 🎓 Studying Computer Science at **Innopolis University**
-- 🔧 Working with **Python**, **Go**, **PostgreSQL**, **Docker**, and **gRPC**
+- 💼 Building backend services, REST APIs, and software
+- 🔧 Working with **Python**, **Go**, and *additionally* **Java**, **C++**, **C#**
 - 📫 Reach me: [Telegram](https://t.me/claymix) | [Email](mailto:timur.salakhov.work@yandex.ru)
 
 ---
